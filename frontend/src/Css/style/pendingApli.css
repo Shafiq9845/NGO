@@ -1,0 +1,6 @@
+.pending-container{
+    position: relative;
+    top: 100px;
+    width: max(900px,90%);
+}
+
